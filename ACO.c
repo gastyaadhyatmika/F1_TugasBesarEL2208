@@ -1,3 +1,11 @@
+/* EL2208 Praktikum Pemecahan Masalah dengan C 2023/2024
+* Modul            : Tubes - Travelling Salesmen Problem 
+* Nama (NIM)       : Prajnagastya Adhyatmika (18322005)
+* Asisten (NIM)    : Emmanuella Pramudita Rumanti (13220031)
+* Nama File        : main.c
+* Deskripsi        : penggunaan algoritma Ant Colony Optimization (ACO) untuk menyelesaikan masalah TSP (Travelling Salesman Problem)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
